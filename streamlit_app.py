@@ -67,7 +67,7 @@ with b2:
 
 with b3:
     st.markdown("### 📉 CryptoQuant")
-    st.link_button("Reservas das Corretoras", "https://cryptoquant.com/asset/btc/chart/exchange-flows")
+    st.link_button("Reservas das Corretoras", "https://cryptoquant.com/asset/btc/chart/exchange-flows/exchange-reserve")
     st.caption("Reservas caindo = Alta")
 
 st.divider()
