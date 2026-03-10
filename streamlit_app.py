@@ -62,12 +62,12 @@ with b1:
 
 with b2:
     st.markdown("### 🕵️ Arkham Intel")
-    st.link_button("Rastrear Grandes Fundos", "https://www.arkhamintelligence.com/dashboards")
+    st.link_button("Rastrear Grandes Fundos", "https://intel.arkm.com/explorer/entity/blackrock")
     st.caption("Veja BlackRock e MicroStrategy")
 
 with b3:
     st.markdown("### 📉 CryptoQuant")
-    st.link_button("Reservas das Corretoras", "https://cryptoquant.com/asset/btc/chart/exchange-details/exchange-reserve")
+    st.link_button("Reservas das Corretoras", "https://cryptoquant.com/asset/btc/chart/exchange-flows")
     st.caption("Reservas caindo = Alta")
 
 st.divider()
